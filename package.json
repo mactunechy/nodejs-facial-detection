@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-facial-recognition",
+  "version": "1.0.0",
+  "description": "an app that recognise faces from an input file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "nodejs-facial-recognition"
+  },
+  "keywords": [
+    "nodjs",
+    "facial",
+    "recognition"
+  ],
+  "author": "Dellan Muchengapadare",
+  "license": "ISC"
+}
